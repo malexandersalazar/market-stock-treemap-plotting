@@ -19,7 +19,7 @@ This project is distributed for general informational and educational purposes o
 
 ![COUNTRIES BY STOCKS COUNT](images/COUNTRIES.png)
 
-### According to the market share capitalization ([squarify](2))
+### According to the market share capitalization ([squarify][2])
 
 ![AEX INDEX STOCKS](images/AEX.png)
 
@@ -37,7 +37,7 @@ This project is distributed for general informational and educational purposes o
 
 ![S&P 500 STOCKS](images/S&P%20500.png)
 
-### According to the market share capitalization ([plotly](3))
+### According to the market share capitalization ([plotly][3])
 
 ![S&P 500 STOCKS](images/INDUSTRIES.png)
 

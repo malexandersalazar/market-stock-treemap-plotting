@@ -15,11 +15,11 @@ This project is distributed for general informational and educational purposes o
 
 ## Results
 
-### According to the share count. 
+### According to the country and share count. 
 
 ![COUNTRIES BY STOCKS COUNT](images/COUNTRIES.png)
 
-### According to the market share capitalization ([squarify][2])
+### According to the market index and share capitalization ([squarify][2])
 
 ![AEX INDEX STOCKS](images/AEX.png)
 
@@ -31,19 +31,23 @@ This project is distributed for general informational and educational purposes o
 
 ![FTSE 100 STOCKS](images/FTSE%20100.png)
 
+![IBEX 35 STOCKS](images/IBEX%2035.png)
+
 ![NASDAQ 100 STOCKS](images/NASDAQ%20100.png)
 
 ![S&P 100 STOCKS](images/S&P%20100.png)
 
 ![S&P 500 STOCKS](images/S&P%20500.png)
 
-### According to the market share capitalization ([plotly][3])
+![TECDAX STOCKS](images/TECDAX.png)
+
+### According to the market industry and share capitalization ([plotly][3])
 
 ![S&P 500 STOCKS](images/INDUSTRIES.png)
 
 ## References
 
-1. Moisés Alexander Salazar Vila. (n.d.). _Just another market stock value scoring algorithm_. GitHub. Retrieved on july 17, 2021 from https://github.com/malexandersalazar/market-stock-value-scoring
+1. Moisés Alexander Salazar Vila. (n.d.). _Just another market stock value scoring algorithm_. GitHub. Retrieved on october 10, 2021 from https://github.com/malexandersalazar/market-stock-value-scoring
 
 [1]: https://github.com/malexandersalazar/market-stock-value-scoring
 
